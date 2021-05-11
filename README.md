@@ -16,7 +16,7 @@ Screenshots:
 ![Picture](./images/fitness.png)
 ![Picture](./images/dashboard.png)
 
-
+Deployed App: https://fitnesstracker2233.herokuapp.com/
 
 ### Usage:
 

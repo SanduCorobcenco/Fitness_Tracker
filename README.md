@@ -33,4 +33,4 @@ corobcenco.sandu@gmail.com
 https://www.linkedin.com/in/sandu-corobcenco-527131165/
 
 ### GitHub profile:
-https://github.com/SanduCorobcenci
+https://github.com/SanduCorobcenco

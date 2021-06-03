@@ -1,7 +1,7 @@
 # Fitness_Tracker
 
 * [About-project](#Description)
-* [Usage](#Usage)
+* [Installation](#Installation)
 * [License](#License)
 * [Contributor](#Contributor)
 * [Email-adress](#Email)
@@ -15,6 +15,26 @@
 Screenshots: 
 ![Picture](./images/fitness.png)
 ![Picture](./images/dashboard.png)
+
+
+## Installation and Setup Instructions
+
+
+To view this locally, clone this repository. You will need `node`, `npm`, and `MongoDB` installed globally on your machine. 
+
+Installation:
+
+`npm install`  
+
+To Start Server:
+
+`npm start`  
+
+To Visit App:
+
+`localhost:3000`  
+
+---
 
 Deployed App: https://fitnesstracker2233.herokuapp.com/
 
